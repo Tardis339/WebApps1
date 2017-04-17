@@ -3,19 +3,26 @@
   margin: 0.1px;
   padding: 7.5px;
   border: 3px beige solid;
-  border-radius: 80px;
+  border-radius: 25px;
 }
 #bar1 {
   background-color: darkred;
   margin: 0.1px;
   padding: 7.5px;
   border: 3px darkred solid;
-  border-radius: 15px;
+  border-radius: 80px;
 }
 #bar {
   background-color: orange;
   margin: 0.1px;
   padding: 7.5px;
   border: 3px beige solid;
-  border-radius: 80px;
+  border-radius: 25px;
+}
+#letuce {
+  background-color: green;
+  margin: 0.05;
+  padding: 7.5;
+  border: 3px lightgreen solid;
+  border-radius: 10px;
 }
